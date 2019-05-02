@@ -1,0 +1,48 @@
+[
+    {
+      "id": 1,
+      "name": "Accordion",
+      "image": "./images/accordion.png"
+    },
+    {
+      "id": 2,
+      "name": "Banjo",
+      "image": "./images/banjo.png"
+    },
+    {
+      "id": 3,
+      "name": "Bass",
+      "image": "./images/bass.png"
+    },
+    {
+      "id": 4,
+      "name": "Drums",
+      "image": "./images/drums.png"
+    },
+    {
+      "id": 5,
+      "name": "Electric Guitar",
+      "image": "./images/electric-guitar.png"
+    },
+    {
+      "id": 6,
+      "name": "Acoustic Guitar",
+      "image": "./images/guitar.png"
+    },
+    {
+      "id": 7,
+      "name": "Piano",
+      "image": "./images/piano.png"
+    },
+    {
+      "id": 8,
+      "name": "Saxophone",
+      "image": "./images/saxophone.png"
+    },
+    {
+      "id": 9,
+      "name": "Viola",
+      "image": "./images/viola.png"
+    }
+  ]
+  
