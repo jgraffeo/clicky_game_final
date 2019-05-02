@@ -1,5 +1,19 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Clicky Game is a memory game created with React. 
+
+# Instructions
+In this game, the user has to avoid selecting the same image more than once. For each new image they select, they gain a point. When they select the same image again, they lose.
+
+# Technologies Used
+- REACT
+- ES6
+- Bootstrap
+- Javascript
+- CSS
+
+![Screenshot](./images/screenshot01.png)
+
 ## Available Scripts
 
 In the project directory, you can run:
