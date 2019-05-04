@@ -5,7 +5,7 @@ const Card = props => (
     <div className="card" onClick={() => props.clickCount(props.id)}>
     {/* <div className="card" onClick={() => props.shuffleCards}> */}
       <div className="img-container">
-        <img alt={props.name} src={props.image} />
+        <img alt={props.name} src={require("../../images/" + props.image)} />
       </div>
     </div>
   );
